@@ -55,8 +55,6 @@ Waterline, Sails.js and the squid's image of this README are property of [Balder
 
 ## MIT License
 
-MIT License
-
 Copyright (c) 2015 Baitic Soluciones S.L.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
