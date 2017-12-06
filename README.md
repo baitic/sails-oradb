@@ -1,6 +1,7 @@
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
 # Oracle Database Sails/Waterline Adapter
+[![NPM](https://nodei.co/npm/sails-oradb.png)](https://nodei.co/npm/sails-oradb/)
 
 [![npm version](https://badge.fury.io/js/sails-oradb.svg)](http://badge.fury.io/js/sails-oradb) [![Dependency Status](https://gemnasium.com/baitic/sails-oradb.png)](https://gemnasium.com/baitic/sails-oradb)
 
@@ -8,9 +9,7 @@ A [Waterline](https://github.com/balderdashy/waterline) adapter for OracleDB tha
 
 ## Installation
 
-The main dependency for this module is `node-oracledb`, so before installing it, you MUST read [how to install `oracledb`](https://github.com/oracle/node-oracledb/blob/master/INSTALL.md).
-
-After that, installation is performed via NPM as follows:
+The main dependency for this module is `node-oracledb`, so before installing it, you MUST read [how to install `oracledb`](https://github.com/oracle/node-oracledb/blob/master/INSTALL.md). After that, installation is performed via NPM as follows:
 
 ```bash
 $ npm install sails-oradb --save
